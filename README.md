@@ -1,3 +1,3 @@
 # KAMC
 
-Otomatik mac değiştiricisi.
+Ubuntu ve Debian Tabanlı Dağıtımlar İçin Mac Değiştiricisi.
