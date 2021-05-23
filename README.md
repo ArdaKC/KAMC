@@ -1,3 +1,7 @@
 # KAMC
 
-Ubuntu ve Debian Tabanlı Dağıtımlar İçin Mac Değiştiricisi.
+Ubuntu ve Debian Tabanli Dağıtımlar İçin Mac Değiştiricisi.
+
+Yapımcı : ArdaKC
+
+Eski Yapımcı : i5-7200u
