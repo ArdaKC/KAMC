@@ -1,1 +1,3 @@
 # KAMC
+
+Otomatik mac değiştiricisi.
