@@ -1,6 +1,6 @@
 # KAMC
 
-Ubuntu ve Debian Tabanli Dağıtımlar İçin Mac Değiştiricisi.
+Macchanger adlı paketin kullanımını kolaylaştıran bir mac değiştiricisidir.
 
 Yapımcı : Arda KC#4118
 
