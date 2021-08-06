@@ -1,4 +1,4 @@
-# KAMC
+# KAMCOLD
 
 Macchanger adlı paketin kullanımını kolaylaştıran bir mac değiştiricisidir.
 
