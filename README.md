@@ -1,4 +1,4 @@
-# KAMC-OLD-VERSİON
+# KAMC-OLD-VERSİONS
 
 Macchanger adlı paketin kullanımını kolaylaştıran bir mac değiştiricisidir.
 
